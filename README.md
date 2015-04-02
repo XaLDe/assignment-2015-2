@@ -40,7 +40,7 @@
 
 Παραδείγματα αρχείων εισόδου του προγράμματος:
 
-* [example_1.txt](example_1.txt).
-* [example_2.txt](example_2.txt).
+* [example_1.json](example_1.json).
+* [example_2.json](example_2.json).
 
 
