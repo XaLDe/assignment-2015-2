@@ -53,11 +53,11 @@
   * `python3 stable_marriage.py -w <input_filename>`, οπότε θα εμφανίζει τη λύση που είναι βέλτιστη για τις γυναίκες. Το πρόγραμμα παράγει στην έξοδο JSON της μορφής `{ "woman": "man", "another_woman": "another_man", ...}`.
   * `python3 stable_marriage.py -w <input_filename> -o <output_filename>`, οπότε βρίσκει τη λύση που είναι βέλτιστη για τις γυναίκες. Τη λύση θα τη σώζει στο πρόγραμμα `output_filename`.
 
-Παραδείγματα αρχείων εισόδου του προγράμματος:
+Παραδείγματα αρχείων εισόδου και εξόδου του προγράμματος:
 
-* [example_1.json](example_1.json).
-* [example_2.json](example_2.json).
-* [example_3.json](example_3.json).
+* [example_1.json](example_1.json), βέλτιστη λύση για άνδρες [example_1_m.json](example_1_m.json), βέλτιστη λύση για γυναίκες [example_1_w.json](example_1_w.json).
+* [example_2.json](example_2.json), βέλτιστη λύση για άνδρες [example_2_m.json](example_2_m.json), βέλτιστη λύση για γυναίκες [example_2_w.json](example_2_w.json).
+* [example_3.json](example_3.json), βέλτιστη λύση για άνδρες [example_3_m.json](example_3_m.json), βέλτιστη λύση για γυναίκες [example_3_w.json](example_3_w.json).
 
 ## Μπόνους Βαθμού
 
