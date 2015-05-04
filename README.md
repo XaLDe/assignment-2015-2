@@ -51,7 +51,7 @@
   * `python3 stable_marriage.py -m <input_filename>`, οπότε θα εμφανίζει τη λύση που είναι βέλτιστη για τους άνδρες. Το πρόγραμμα παράγει στην έξοδο JSON της μορφής `{ "man": "woman", "another_man": "another_woman", ...}`.
   * `python3 stable_marriage.py -m <input_filename> -o <output_filename>`, οπότε βρίσκει τη λύση που είναι βέλτιστη για τους άνδρες. Τη λύση θα τη σώζει στο πρόγραμμα `output_filename`.
   * `python3 stable_marriage.py -w <input_filename>`, οπότε θα εμφανίζει τη λύση που είναι βέλτιστη για τις γυναίκες. Το πρόγραμμα παράγει στην έξοδο JSON της μορφής `{ "woman": "man", "another_woman": "another_man", ...}`.
-  * `python3 stable_marriage.py -w <input_filename> -o <output_filename>`, οπότε βρίσκει τη λύση που είναι βέλτιστη για τις γυναίκες. Τη λύση θα τη σώζει στο πρόγραμμα `output_filename`.
+  * `python3 stable_marriage.py -w <input_filename> -o <output_filename>`, οπότε βρίσκει τη λύση που είναι βέλτιστη για τις γυναίκες. Τη λύση θα τη σώζει στο αρχείο `output_filename`.
 
 Παραδείγματα αρχείων εισόδου και εξόδου του προγράμματος:
 
